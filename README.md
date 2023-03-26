@@ -1,21 +1,34 @@
-# [STATUS]
-<pre>
-  이름 : 김세인
-  닉네임 : 김토타 (tmi.FF14 npc이름에서 따왔다)
+<div align="center">
   
-  학업 : 동덕여대 컴퓨터학과 재학 중 (2018.03~2023.08)
-  진행중인 프로젝트 : OS 무관 채팅 프로그램 만들기 (Chatting-Any)
-  
+  # [ STATUS ]
+</div>
+<pre align="left">
+	  - 이름 : 김세인
+	  - 닉네임 : 김토타 (tmi.FF14 npc이름에서 따왔다) <br/>
+	  - 학업 : 동덕여대 컴퓨터학과 재학 중 (2018.03 ~ 2023.08)
+	  - 진행중인 프로젝트 : OS 무관 채팅 프로그램 만들기 (Chatting-Any)
 </pre>
 
 <div align="center">
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+
 </div>
 
+## 진행한 프로젝트
+- 2021.03 ~ 2021.11 [한이음 ICT 경진대회](https://github.com/raspberry-cookie/air-pollution.git)
+- 2022.09 ~ 2022.11 [MSW X Super Hackathon](https://github.com/kimtota/The-Escape-of-the-Alien-Deokgu.git)
+
+
+## Contact
 - 연락 이메일 : continue.deve@gmail.com
-- 운영중인 블로그 : https://continuedeve.tistory.com/
+- 운영중인 블로그 : https://continuedeve.tistory.com/ 
+  
+
 
 <!--
 **kimtota/kimtota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
