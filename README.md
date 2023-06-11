@@ -1,13 +1,13 @@
 <div align="center">
   
-  # [ STATUS ]
+  # [ 상태창 ]
 </div>
 <pre align="left">
 	  - 이름 : 김세인
 	  - 닉네임 : 김토타 (tmi.FF14 npc이름에서 따왔다) <br/>
 	  - 학업 : 동덕여대 컴퓨터학과 재학 중 (2018.03 ~ 2023.08)
 	  - 진행중인 프로젝트 : OS 무관 채팅 프로그램 만들기 (Chatting-Any)
-	  - 요즘하는 게임 : Limbus Company
+	  - 요즘하는 게임 : 메이플스토리
 </pre>
 
 <div align="center">
