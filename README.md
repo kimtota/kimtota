@@ -13,7 +13,11 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/>
+ 	<br>
 	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
