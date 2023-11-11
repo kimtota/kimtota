@@ -1,14 +1,4 @@
 <div align="center">
-  
-  # [ 상태창 ]
-</div>
-<pre align="left">
-	  - 이름 : 김세인
-	  - 닉네임 : 김토타 (tmi.FF14 npc이름에서 따왔다) <br/>
-	  - 학업 : 동덕여대 컴퓨터학과 졸업 (2018.03 ~ 2023.08)
-	  - 진행중인 프로젝트 : 툴 개발
-	  - 요즘하는 게임 : 테트리스99, 베리드 스타즈
-</pre>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -30,7 +20,8 @@
 ## 진행한 프로젝트
 - 2021.03 ~ 2021.11 [한이음 ICT 경진대회](https://github.com/raspberry-cookie/air-pollution.git)
 - 2022.09 ~ 2022.11 [MSW X Super Hackathon](https://github.com/kimtota/The-Escape-of-the-Alien-Deokgu.git)
-- 2023.07 ~ Tool 개발 (in Npixel)
+- 2023.07 ~ .Net Framework 개발
+- 2023.11 ~ Game Server 개발
 
 
 ## Contact
